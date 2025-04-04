@@ -13,6 +13,7 @@
 #include <stdint.h>  ///< Std types
 #include <stdbool.h> ///< _Bool to bool
 #include <string.h>	 ///< Lib for sprintf, strlen, etc
+#include <math.h>    ///< Lib for the float_t type
 
 typedef uint8_t u8_t; 	///< 8-bit unsigned
 typedef int8_t i8_t;	///< 8-bit signed
